@@ -1,0 +1,43 @@
+Qt framework - Qt core, Qt GUI
+linux - IPC, device file, device tree
+MCU - UART, GPIO, SPI, I2C, Timer, Interrupt
+
+Lịch sáng mai:
+- Học tiếng anh 1h
+- Cài ubunu
+- Đọc code Git cloud
+- Tìm kiếm 1 project Qt
+
+20/1/2024
+	####################################
+		Xem hết 3 video 2/3
+		Nghe tiếng anh - 30p v
+		Đọc sách linux - 30->40 trang 
+	####################################
+21/1/2024
+	####################################
+		Xem 2 video x
+		Nghe tiếng anh 30p 
+		Đọc sách Linux hết chương 2
+		Nghiên cứu detect motion
+		Đọc code WM Platform
+		Tìm thêm code dự án để trace
+	#####################################
+22/1/2024
+	#####################################
+		Nghiên cứu detect motion
+		Xem video
+		Đọc code WM Platform
+		Đọc sách Linux hết chương 2
+		Nghe tiếng anh 30p - 1h
+	#####################################
+23/1/2024
+
+24/1/2024
+
+25/1/2024
+
+26/1/2024
+
+27/1/2024
+
